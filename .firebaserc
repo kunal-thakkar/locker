@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "avyukta-locker": {
+      "hosting": {
+        "locker": [
+          "avyukta-locker"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "avyukta-locker"
+  }
+}
